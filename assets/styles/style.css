@@ -34,11 +34,6 @@ h2 {
     margin-top: 0px;
 }
 
-#scrollSpyContainer {
-    position: sticky;
-    text-align: center;
-}
-
 #carouselContainer {
     height: 247px;
     overflow: show;
@@ -51,4 +46,9 @@ h2 {
 
 button {
     padding-bottom: 10px;
+}
+
+.navSpacer {
+    min-height: 43.5px;
+    max-height: 43.5px;
 }
