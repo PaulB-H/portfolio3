@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+.parallax-container{
+    height: 600px;
+}
+
 #brandLogo {
     margin-left: 10px;
 }
@@ -35,9 +39,14 @@ h2 {
 }
 
 #carouselContainer {
-    height: 247px;
+    height: 380px;
     overflow: show;
     margin-bottom: 10px;
+    top: -100px;
+}
+
+#carouselOuter {
+    height: 400px;
 }
 
 #emailRow {
