@@ -1,7 +1,8 @@
-This is my third portfolio assignment.
+# Portfolio 3
+### Paul Bernard-Hall
 
-I wanted to rebuild it using materialize since we used it for our first project.
+## Goal
 
-I had some more issues with how custom styling works with the prebuild materialize elements, and had to change the navbar style I was going to use
+* Construct a new responsive portfolio using a CSS framework you have not used yet
 
-Had to add empty div above content headers to direct the navbar links to, so navbar would not overlay content.
+* Mobile-first design
